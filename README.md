@@ -35,7 +35,7 @@ git clone https://github.com/Sambonic/Uber
 ```
 
 ```bash
-cd Resume-Matcher
+cd Uber
 ```
 
 2. Create a Python Virtual Environment:
