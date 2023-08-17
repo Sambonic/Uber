@@ -15,6 +15,7 @@
 ## Introduction
 
 Welcome to the Uber Pickups in NYC Streamlit App! This app visualizes Uber pickups data in New York City for the month of September 2014.
+You can check the demo here: [https://uberpickups.streamlit.app/](https://uberpickups.streamlit.app/)
 <br></br>
 
 Experience full control over dataset visualization with a simple slider!
